@@ -10,8 +10,7 @@ The `Schema` class is designed to facilitate the processing and transformation o
     - [Previewing Results](#previewing-results)
 - [Extended Parameter](#extended-parameter)
 - [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
